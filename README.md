@@ -1,4 +1,4 @@
 # Siya.demo
 This is my first Git Repository
 <br>
-Author - Siya Kumari
+Author - Siya (Apna College)
